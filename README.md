@@ -30,13 +30,13 @@
 
 🔗 **Live Demo:** NA
 
-![Signup page](public/ss1.png)
-![Login page](public/ss2.png)
-![Home page- Table](public/ss3.png)
-![Home page- Card](public/ss4.png)
-![Create/Add book](public/ss5.png)
-![Show book](public/ss6.png)
-![Edit book](public/ss7.png)
+![Signup page](frontend/public/ss1.png)
+![Login page](frontend/public/ss2.png)
+![Home page- Table](frontend/public/ss3.png)
+![Home page- Card](frontend/public/ss4.png)
+![Create/Add book](frontend/public/ss5.png)
+![Show book](frontend/public/ss6.png)
+![Edit book](frontend/public/ss7.png)
 ---
 
 ## Tech Stack
