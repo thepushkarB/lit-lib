@@ -21,7 +21,7 @@
 - **User Authentication:** Secure sign up and login with JWT.
 - **Role-Based Authorization:** Access control for different user roles.
 - **Book Management:** Add, view, edit, and delete books (CRUD operations).
-- **Book Listing & Sorting:** Browse all books and sort them easily.
+- **Book Listing:** Browse all books
 - **Responsive Design:** Works smoothly on desktop and mobile.
 - **Notifications:** Get instant feedback for your actions (like adding or deleting a book).
 ---
