@@ -30,10 +30,13 @@
 
 🔗 **Live Demo:** NA
 
-![Snapshot-i](public/ss1.png)
-![Snaphot-ii](public/ss2.png)
-![Snaphot-iii](public/ss3.png)
-![Snaphot-iv](public/ss4.png)
+![Signup page](public/ss1.png)
+![Login page](public/ss2.png)
+![Home page- Table](public/ss3.png)
+![Home page- Card](public/ss4.png)
+![Create/Add book](public/ss5.png)
+![Show book](public/ss6.png)
+![Edit book](public/ss7.png)
 ---
 
 ## Tech Stack
@@ -104,6 +107,5 @@ lit-lib/
 - **Sign up** for a new account or **log in**.
 - **Browse** the list of books.
 - **Add, edit, or delete** books (if you have the right permissions).
-- **Sort** books to find what you need quickly.
 
 
